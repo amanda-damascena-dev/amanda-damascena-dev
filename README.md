@@ -3,7 +3,7 @@
 💼 Atuo com suporte de TI e Inteligência Artificial na Vaz & Pinheiro Advocacia  
 🤖 Interesse em IA aplicada a negócios, automação de processos e desenvolvimento web  
 
-## Sobre mim
+## Sobre mim 
 Busco desenvolver soluções que unam tecnologia, Inteligência Artificial e organização de processos. Atualmente, estou fortalecendo meus conhecimentos em programação por meio de projetos acadêmicos e experiências práticas.
 
 ## Tecnologias em desenvolvimento
