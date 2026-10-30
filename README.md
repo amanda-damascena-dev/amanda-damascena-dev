@@ -1,6 +1,6 @@
 # Olá, eu sou Amanda Gomes Damascena 👋
 🎓 Estudante de Engenharia de Software e Técnica em Informática  
-💼 Atuo com suporte de TI e Inteligência Artificial na Vaz & Pinheiro Advocacia  
+💼 Atuo com suporte de TI e Inteligência Artificial  
 🤖 Interesse em IA aplicada a negócios, automação de processos e desenvolvimento web  
 
 ## Sobre mim 
